@@ -1,6 +1,6 @@
 /* GLOBAL STYLES
 ======================== */
-
+/* https://imgur.com/qlsiVqU */
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -161,6 +161,10 @@ a:visited {
 
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+
+#wyatt-goodwin-card {
+  background-image: url("https://i.imgur.com/qlsiVqU.jpg");
 }
 
 .view-profile-div {
